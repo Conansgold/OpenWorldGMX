@@ -1,0 +1,1 @@
+global.moving = true

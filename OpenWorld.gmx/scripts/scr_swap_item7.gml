@@ -1,0 +1,25 @@
+if object_index = obj_slot1 {global.hold = argument0 global.armor7 = global.inv1 global.inv1 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot2 {global.hold = argument0 global.armor7 = global.inv2 global.inv2 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot3 {global.hold = argument0 global.armor7 = global.inv3 global.inv3 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot4 {global.hold = argument0 global.armor7 = global.inv4 global.inv4 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot5 {global.hold = argument0 global.armor7 = global.inv5 global.inv5 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot6 {global.hold = argument0 global.armor7 = global.inv6 global.inv6 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot7 {global.hold = argument0 global.armor7 = global.inv7 global.inv7 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot8 {global.hold = argument0 global.armor7 = global.inv8 global.inv8 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot9 {global.hold = argument0 global.armor7 = global.inv9 global.inv9 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot10 {global.hold = argument0 global.armor7 = global.inv10 global.inv10 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot11 {global.hold = argument0 global.armor7 = global.inv11 global.inv11 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot12 {global.hold = argument0 global.armor7 = global.inv12 global.inv12 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot13 {global.hold = argument0 global.armor7 = global.inv13 global.inv13 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot14 {global.hold = argument0 global.armor7 = global.inv14 global.inv14 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot15 {global.hold = argument0 global.armor7 = global.inv15 global.inv15 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot16 {global.hold = argument0 global.armor7 = global.inv16 global.inv16 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot17 {global.hold = argument0 global.armor7 = global.inv17 global.inv17 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot18 {global.hold = argument0 global.armor7 = global.inv18 global.inv18 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot19 {global.hold = argument0 global.armor7 = global.inv19 global.inv19 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot20 {global.hold = argument0 global.armor7 = global.inv20 global.inv20 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot21 {global.hold = argument0 global.armor7 = global.inv21 global.inv21 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot22 {global.hold = argument0 global.armor7 = global.inv22 global.inv22 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot23 {global.hold = argument0 global.armor7 = global.inv23 global.inv23 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot24 {global.hold = argument0 global.armor7 = global.inv24 global.inv24 = global.hold global.hold = 0 scr_reset_select()} else
+if object_index = obj_slot25 {global.hold = argument0 global.armor7 = global.inv25 global.inv25 = global.hold global.hold = 0 scr_reset_select()}

@@ -1,0 +1,61 @@
+//This simply loads all of the variables for the skills in the game.
+
+global.hplv = 10
+global.acclv = 1
+global.strlv = 1
+global.deflv = 1
+global.mininglv = 1
+global.woodlv = 1
+global.fishlv = 1
+global.cooklv = 1
+global.craftlv = 1
+global.tamelv = 1
+global.hplvbase = 10
+global.acclvbase = 1
+global.strlvbase = 1
+global.deflvbase = 1
+global.mininglvbase = 1
+global.woodlvbase = 1
+global.fishlvbase = 1
+global.cooklvbase = 1
+global.craftlvbase = 1
+global.tamelvbase = 1
+global.hpxp = 180
+global.accxp = 30
+global.strxp = 30
+global.defxp = 30
+global.miningxp = 30
+global.woodxp = 30
+global.fishxp = 30
+global.cookxp = 30
+global.craftxp = 30
+global.tamexp = 30
+
+
+global.movespeed = 4
+global.meleeweapondmg = 0
+global.meleehelmdef = 0
+global.meleebodydef = 0
+global.meleelegdef = 0
+global.meleebootdef = 0
+global.meleesheilddef = 0
+global.rangeweapondmg = 0
+global.rangehelmdef = 0
+global.rangebodydef = 0
+global.rangelegdef = 0
+global.rangebootdef = 0
+global.rangesheilddef = 0
+global.mageweapondmg = 0
+global.magehelmdef = 0
+global.magebodydef = 0
+global.magelegdef = 0
+global.magebootdef = 0
+global.magesheilddef = 0
+
+global.meleedmg = 0
+global.meleedef = 0
+global.rangedmg = 0
+global.rangedef = 0
+global.magedmg = 0
+global.magedef = 0
+global.atkspeed = 60

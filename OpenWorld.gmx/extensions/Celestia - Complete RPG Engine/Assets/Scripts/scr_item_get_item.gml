@@ -1,0 +1,36 @@
+if object_index = obj_slot1 {item = global.inv1}
+if object_index = obj_slot2 {item = global.inv2}
+if object_index = obj_slot3 {item = global.inv3}
+if object_index = obj_slot4 {item = global.inv4}
+if object_index = obj_slot5 {item = global.inv5}
+if object_index = obj_slot6 {item = global.inv6}
+if object_index = obj_slot7 {item = global.inv7}
+if object_index = obj_slot8 {item = global.inv8}
+if object_index = obj_slot9 {item = global.inv9}
+if object_index = obj_slot10 {item = global.inv10}
+if object_index = obj_slot11 {item = global.inv11}
+if object_index = obj_slot12 {item = global.inv12}
+if object_index = obj_slot13 {item = global.inv13}
+if object_index = obj_slot14 {item = global.inv14}
+if object_index = obj_slot15 {item = global.inv15}
+if object_index = obj_slot16 {item = global.inv16}
+if object_index = obj_slot17 {item = global.inv17}
+if object_index = obj_slot18 {item = global.inv18}
+if object_index = obj_slot19 {item = global.inv19}
+if object_index = obj_slot20 {item = global.inv20}
+if object_index = obj_slot21 {item = global.inv21}
+if object_index = obj_slot22 {item = global.inv22}
+if object_index = obj_slot23 {item = global.inv23}
+if object_index = obj_slot24 {item = global.inv24}
+if object_index = obj_slot25 {item = global.inv25}
+if object_index = obj_craft1 {item = global.craft1}
+if object_index = obj_craft2 {item = global.craft2}
+if object_index = obj_craft3 {item = global.craft3}
+if object_index = obj_craft4 {item = global.craft4}
+if object_index = obj_craft5 {item = global.craft5}
+if object_index = obj_craft6 {item = global.craft6}
+if object_index = obj_craft7 {item = global.craft7}
+if object_index = obj_craft8 {item = global.craft8}
+if object_index = obj_craft9 {item = global.craft9}
+
+scr_item_action()
